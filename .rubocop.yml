@@ -7,6 +7,8 @@ AllCops:
     - '**/templates/**/*'
     - '**/vendor/**/*'
     - 'actionpack/lib/action_dispatch/journey/parser.rb'
+    - 'config/application.rb'
+    - 'db/schema.rb'
 
 # Prefer &&/|| over and/or.
 Style/AndOr:
