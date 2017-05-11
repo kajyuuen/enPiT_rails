@@ -41,6 +41,7 @@ group :development, :test do
   gem 'guard-rspec', require: false
   gem 'guard-rubocop'
   gem 'rspec-rails'
+  gem 'capybara'
   gem 'simplecov'
   gem 'terminal-notifier-guard'
 end
