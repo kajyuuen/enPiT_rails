@@ -3,7 +3,7 @@ require 'rails_helper'
 describe 'view home page', type: :feature do
   scenario do
     visit static_pages_home_url
-    expect(page).to have_title 'Home | Ruby on Rails Tutorial Sample App'
+    expect(page).to have_title 'Ruby on Rails Tutorial Sample App'
   end
 end
 
