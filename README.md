@@ -1,3 +1,10 @@
+# Ruby on Rails チュートリアル
+enPitの課題です。二回目なので少し変更点があります。
+- erbの代わりにslim
+- minitestの代わりにrspec
+  
+あとはrubocop入れたり少しgemを追加しています。
+
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
 これは、次の教材で作られたサンプルアプリケーションです。   
